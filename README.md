@@ -1,9 +1,6 @@
 # Todolist
 A simple To-do list web-app using Flask and SQLAlchemy
 
-- [Usage](/README.MD/#Usage)
-- [Technologies Used](/README.MD/#Technologies-used)
-
 ## Usage
 
 To install Todolist, you will need to have Python 3.x and pip installed on your system. Once you have these prerequisites, follow these steps:
